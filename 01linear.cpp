@@ -20,6 +20,7 @@ int main()
     while(t>0)
     {
         cin>>n>>ele;
+        cout<"Enter Total test cases, Array Size, Array Elements ";
         cout<<search(n,ele);
         t--;
     }
